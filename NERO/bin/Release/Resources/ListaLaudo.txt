@@ -1,0 +1,68 @@
+﻿Em formação
+Aspecto normal
+Cárie
+Elemento ausente
+Em erupção
+Restauração
+Restauração com recidiva
+Restauração estética
+Restauração com excesso marginal
+Restauração sem proteção pulpar radiopaca
+Material radiopaco
+Núcleo intra canal
+Pôntico/Ponte fixa
+Nódulo e calcificação pulpar coronária
+Nódulo e calcificação pulpar radicula
+Coroa
+Câmara pulpar com material obturador
+Conduto obturado totalmente
+Conduto obturado parcialmente
+Extavasamento apical de material obturador
+Apicetomia com retrobturação
+Apicetomia sem retrobturação
+Implante
+Cálculo supra/infra gengival
+Fratrua coronária
+Fratura radicular
+Perfuração radicular
+Perfuração do assoalho da c�mara pulpar
+Extrução dental
+Dilaceração
+Abrasão/Erosão
+Hipercementose
+Bifurcação de canal radicular
+Lesão de bifurcação
+Reabsorção radicular fisiológica inicial
+Reabsorção radicular fisiológica avançada
+Reabsorção radicular patológica externa
+Reabsorção radicular patológica interna
+Reabsorção radicular patológica parcial
+Reabsorção radicular patológica total
+Rizogênese 1/3 raiz
+Rizogênese 2/3 raiz
+Rizogênese completa
+Raiz residual
+Raiz supra numerária
+Início de reabsor��o da crista alveolar
+Reabsorção �ssea horizontal/vertical
+Espessamento espa�o periodontal
+Rarefação óssea difusa
+Rarefação óssea circuscrita
+Rarefação óssea cística
+Odontoma composto/complexo
+Germinação/Fusão/Concrescência
+Dens in dens
+Mesiodens
+Microdente
+Dente supra numerário
+Dente incluso/impactado
+Dente com giroversão
+Dente ectópico
+Exodontia recente
+Taurodontia
+Atrofia alveolar
+Esclerose óssea
+Anquilose
+Aparelho ortodôntico
+Corpo estranho
+Tratamento endodontico

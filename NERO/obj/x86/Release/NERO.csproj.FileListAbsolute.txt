@@ -1,0 +1,81 @@
+z:\documents\visual studio 2010\Projects\NERO\NERO\bin\Release\NERO.exe
+z:\documents\visual studio 2010\Projects\NERO\NERO\bin\Release\NERO.pdb
+z:\documents\visual studio 2010\Projects\NERO\NERO\bin\Release\Microsoft.Office.Interop.Word.dll
+z:\documents\visual studio 2010\Projects\NERO\NERO\obj\x86\Release\NERO.csprojResolveAssemblyReference.cache
+z:\documents\visual studio 2010\Projects\NERO\NERO\obj\x86\Release\NERO.csproj.ResolveComReference.cache
+z:\documents\visual studio 2010\Projects\NERO\NERO\obj\x86\Release\NERO.Form_Principal.resources
+z:\documents\visual studio 2010\Projects\NERO\NERO\obj\x86\Release\NERO.Properties.Resources.resources
+z:\documents\visual studio 2010\Projects\NERO\NERO\obj\x86\Release\NERO.csproj.GenerateResource.Cache
+z:\documents\visual studio 2010\Projects\NERO\NERO\obj\x86\Release\NERO.exe
+z:\documents\visual studio 2010\Projects\NERO\NERO\obj\x86\Release\NERO.pdb
+Z:\Documents\Visual Studio 2010\Projects\NERO\NERO\obj\x86\Release\NERO.Form_IdPac.resources
+Z:\Documents\Visual Studio 2010\Projects\NERO\NERO\obj\x86\Release\NERO.Form_AdAnalise.resources
+Z:\Documents\Visual Studio 2010\Projects\NERO\NERO\obj\x86\Release\NERO.Form4.resources
+C:\Documents and Settings\Marcílio\Meus documentos\Laudos_Nero\Programa\NERO\NERO\bin\Release\NERO.exe
+C:\Documents and Settings\Marcílio\Meus documentos\Laudos_Nero\Programa\NERO\NERO\bin\Release\NERO.pdb
+C:\Documents and Settings\Marcílio\Meus documentos\Laudos_Nero\Programa\NERO\NERO\bin\Release\Microsoft.Office.Interop.Word.dll
+C:\Documents and Settings\Marcílio\Meus documentos\Laudos_Nero\Programa\NERO\NERO\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Marcílio\Meus documentos\Laudos_Nero\Programa\NERO\NERO\obj\x86\Release\NERO.csproj.ResolveComReference.cache
+C:\Documents and Settings\Marcílio\Meus documentos\Laudos_Nero\Programa\NERO\NERO\obj\x86\Release\NERO.Form_Principal.resources
+C:\Documents and Settings\Marcílio\Meus documentos\Laudos_Nero\Programa\NERO\NERO\obj\x86\Release\NERO.Form_IdPac.resources
+C:\Documents and Settings\Marcílio\Meus documentos\Laudos_Nero\Programa\NERO\NERO\obj\x86\Release\NERO.Form_AdAnalise.resources
+C:\Documents and Settings\Marcílio\Meus documentos\Laudos_Nero\Programa\NERO\NERO\obj\x86\Release\NERO.Form4.resources
+C:\Documents and Settings\Marcílio\Meus documentos\Laudos_Nero\Programa\NERO\NERO\obj\x86\Release\NERO.Properties.Resources.resources
+C:\Documents and Settings\Marcílio\Meus documentos\Laudos_Nero\Programa\NERO\NERO\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Marcílio\Meus documentos\Laudos_Nero\Programa\NERO\NERO\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Marcílio\Meus documentos\Laudos_Nero\Programa\NERO\NERO\obj\x86\Release\NERO.exe
+C:\Documents and Settings\Marcílio\Meus documentos\Laudos_Nero\Programa\NERO\NERO\obj\x86\Release\NERO.pdb
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.5\NERO\obj\x86\Release\NERO.csproj.ResolveComReference.cache
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.5\NERO\obj\x86\Release\NERO.exe
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.5\NERO\obj\x86\Release\NERO.pdb
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.5\NERO\bin\Release\NERO.exe
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.5\NERO\bin\Release\NERO.pdb
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.5\NERO\bin\Release\Microsoft.Office.Interop.Word.dll
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.5\NERO\obj\x86\Release\NERO.csprojResolveAssemblyReference.cache
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.5\NERO\obj\x86\Release\NERO.Form_Principal.resources
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.5\NERO\obj\x86\Release\NERO.Form_IdPac.resources
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.5\NERO\obj\x86\Release\NERO.Form_AdAnalise.resources
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.5\NERO\obj\x86\Release\NERO.Form4.resources
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.5\NERO\obj\x86\Release\NERO.Properties.Resources.resources
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.5\NERO\obj\x86\Release\NERO.csproj.GenerateResource.Cache
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.6\NERO\obj\x86\Release\NERO.csproj.ResolveComReference.cache
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.6\NERO\obj\x86\Release\NERO.exe
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.6\NERO\obj\x86\Release\NERO.pdb
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.6\NERO\bin\Release\NERO.exe
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.6\NERO\bin\Release\NERO.pdb
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.6\NERO\bin\Release\Microsoft.Office.Interop.Word.dll
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.6\NERO\obj\x86\Release\NERO.csprojResolveAssemblyReference.cache
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.6\NERO\obj\x86\Release\NERO.Form_Principal.resources
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.6\NERO\obj\x86\Release\NERO.Form_IdPac.resources
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.6\NERO\obj\x86\Release\NERO.Form_AdAnalise.resources
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.6\NERO\obj\x86\Release\NERO.Form4.resources
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.6\NERO\obj\x86\Release\NERO.Properties.Resources.resources
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.6\NERO\obj\x86\Release\NERO.csproj.GenerateResource.Cache
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.6\NERO\bin\Release\Resources\LaudoNERO.dotx
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.6\NERO\bin\Release\Resources\ListaLaudo.txt
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.6\NERO\bin\Release\Resources\ListaDentistas.txt
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.6\NERO\bin\Release\NERO.exe.manifest
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.6\NERO\bin\Release\NERO.application
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.6\NERO\obj\x86\Release\NERO.exe.manifest
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.6\NERO\obj\x86\Release\NERO.application
+C:\Users\Laura\Documents\Visual Studio 2013\Projects\NERO_v1.6\NERO\bin\Release\Resources\LaudoNERO.dotx
+C:\Users\Laura\Documents\Visual Studio 2013\Projects\NERO_v1.6\NERO\bin\Release\Resources\ListaLaudo.txt
+C:\Users\Laura\Documents\Visual Studio 2013\Projects\NERO_v1.6\NERO\bin\Release\Resources\ListaDentistas.txt
+C:\Users\Laura\Documents\Visual Studio 2013\Projects\NERO_v1.6\NERO\bin\Release\NERO.exe.manifest
+C:\Users\Laura\Documents\Visual Studio 2013\Projects\NERO_v1.6\NERO\bin\Release\NERO.application
+C:\Users\Laura\Documents\Visual Studio 2013\Projects\NERO_v1.6\NERO\bin\Release\NERO.exe
+C:\Users\Laura\Documents\Visual Studio 2013\Projects\NERO_v1.6\NERO\bin\Release\NERO.pdb
+C:\Users\Laura\Documents\Visual Studio 2013\Projects\NERO_v1.6\NERO\bin\Release\Microsoft.Office.Interop.Word.dll
+C:\Users\Laura\Documents\Visual Studio 2013\Projects\NERO_v1.6\NERO\obj\x86\Release\NERO.csproj.ResolveComReference.cache
+C:\Users\Laura\Documents\Visual Studio 2013\Projects\NERO_v1.6\NERO\obj\x86\Release\NERO.Form_Principal.resources
+C:\Users\Laura\Documents\Visual Studio 2013\Projects\NERO_v1.6\NERO\obj\x86\Release\NERO.Form_IdPac.resources
+C:\Users\Laura\Documents\Visual Studio 2013\Projects\NERO_v1.6\NERO\obj\x86\Release\NERO.Form_AdAnalise.resources
+C:\Users\Laura\Documents\Visual Studio 2013\Projects\NERO_v1.6\NERO\obj\x86\Release\NERO.Form4.resources
+C:\Users\Laura\Documents\Visual Studio 2013\Projects\NERO_v1.6\NERO\obj\x86\Release\NERO.Properties.Resources.resources
+C:\Users\Laura\Documents\Visual Studio 2013\Projects\NERO_v1.6\NERO\obj\x86\Release\NERO.csproj.GenerateResource.Cache
+C:\Users\Laura\Documents\Visual Studio 2013\Projects\NERO_v1.6\NERO\obj\x86\Release\NERO.exe.manifest
+C:\Users\Laura\Documents\Visual Studio 2013\Projects\NERO_v1.6\NERO\obj\x86\Release\NERO.application
+C:\Users\Laura\Documents\Visual Studio 2013\Projects\NERO_v1.6\NERO\obj\x86\Release\NERO.exe
+C:\Users\Laura\Documents\Visual Studio 2013\Projects\NERO_v1.6\NERO\obj\x86\Release\NERO.pdb
+C:\Users\Laura\Documents\Visual Studio 2013\Projects\NERO_v1.6\NERO\bin\Release\Resources\Tooth.ico
+C:\Users\Laura\Documents\Visual Studio 2013\Projects\NERO_v1.6\NERO\obj\x86\Release\NERO.csprojResolveAssemblyReference.cache

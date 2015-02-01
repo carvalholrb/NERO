@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="NERO.exe" version="1.0.0.0" publicKeyToken="d3b99631a6590a3b" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="NERO" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="NERO.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.Office.Interop.Word.dll" size="870256">
+      <assemblyIdentity name="Microsoft.Office.Interop.Word" version="12.0.0.0" publicKeyToken="71E9BCE111E9429C" language="neutral" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>VjhP3VZvkJKX/A020oaboQCdXl8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NERO.exe" size="56320">
+      <assemblyIdentity name="NERO" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>DQ1xi0RH3y2eT/4amTJc/0dcUqQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=Zeus\Laura" issuerKeyHash="89357b4b644b75b20f3d9a32a27ebba70dd7152a" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>GlH/r7Bmvkzr6MRp3NQ8wvqT0s8=</DigestValue></Reference></SignedInfo><SignatureValue>k+nMuvN2LpfY2XT1+tZRBgjb2I4GpV+VxM2pa+SSmZ1kI0MRb4t0p0pEIbxcd3fKgWTwNhZJ+OmwyiUi4mWonmnXmjngwLS5l036FAn1uhyfkNQtfzEBNPjHEXcB8t3Evx7Cd4RtsZRj39JIKcg/YlTghrgTLMs4YsFsuV/5tVs=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>pozK14H0rT3x99dKcLoK10Ur+7XtnRioP1lchWMVMUSaqWUb267nPXQo4r0spRFGqdD0vVlrzlkA0ECYrLmo5DmsD2pP/t5r+gG4XyUdVFjiRBKzB1CnI0Zh+IpryD1u09pmox40o5AiHzydCg8f77780PtuIU15w53sYTd3g78=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="cfd293fac23cd4dc69c4e8eb4cbe66b0afff511a" Description="" Url=""><as:assemblyIdentity name="NERO.exe" version="1.0.0.0" publicKeyToken="d3b99631a6590a3b" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Zeus\Laura</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>e4Xfkjx5BjjInmn+deauufgPKcE=</DigestValue></Reference></SignedInfo><SignatureValue>hBEEAltTntd1VF9HAjHAQY/35dNowuA+QGp2C9pyVdNj6DYHWN3fAjEHKrSRrSYGsaiVEed6SSEUIfXRfpMCY2qjWd37vtY+QP2QaBGGKJ1jIBTEO3fHqMX3bUKB2hPOkmEiXuIL57mZFNJ76KnsNr7JqZrltznQDOFBfIeRWLM=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>pozK14H0rT3x99dKcLoK10Ur+7XtnRioP1lchWMVMUSaqWUb267nPXQo4r0spRFGqdD0vVlrzlkA0ECYrLmo5DmsD2pP/t5r+gG4XyUdVFjiRBKzB1CnI0Zh+IpryD1u09pmox40o5AiHzydCg8f77780PtuIU15w53sYTd3g78=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBwTCCASqgAwIBAgIQGOgDNXSmpqVCc31GYLwzijANBgkqhkiG9w0BAQUFADAfMR0wGwYDVQQDHhQAWgBlAHUAcwBcAEwAYQB1AHIAYTAeFw0xMzEyMTAwMTA0MDhaFw0xNDEyMTAwNzA0MDhaMB8xHTAbBgNVBAMeFABaAGUAdQBzAFwATABhAHUAcgBhMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCmjMrXgfStPfH310pwugrXRSv7te2dGKg/WVyFYxUxRJqpZRvbruc9dCjivSylEUap0PS9WWvOWQDQQJisuajkOawPak/+3mv6AbhfJR1UWOJEErMHUKcjRmH4imvIPW7T2majHjSjkCIfPJ0KDx/vvvzQ+24hTXnDnexhN3eDvwIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAGtZiU7XlcLCRrJajmcT72uQOdT2XSRH8sP2o/u21B+7gBqhJCWS/2obrMcwgfAgn42buFuamk8yUceCbI4+Bhg7Xso+RqWwgg778R7uXrbzguidyB+4BsCgjNaL0mbFinWoaEzHXs8rjSypSdOm9qa8TcHU4qpKXLAdj1Run2xB</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

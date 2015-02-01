@@ -1,0 +1,41 @@
+C:\Users\Laura\AppData\Local\Temporary Projects\NERO\obj\x86\Debug\NERO.csproj.ResolveComReference.cache
+z:\documents\visual studio 2010\Projects\NERO\NERO\obj\x86\Debug\NERO.csproj.ResolveComReference.cache
+Z:\Documents\Visual Studio 2010\Projects\NERO\NERO\bin\Debug\NERO.exe
+Z:\Documents\Visual Studio 2010\Projects\NERO\NERO\bin\Debug\NERO.pdb
+Z:\Documents\Visual Studio 2010\Projects\NERO\NERO\bin\Debug\Microsoft.Office.Interop.Word.dll
+Z:\Documents\Visual Studio 2010\Projects\NERO\NERO\obj\x86\Debug\NERO.Form_Principal.resources
+Z:\Documents\Visual Studio 2010\Projects\NERO\NERO\obj\x86\Debug\NERO.Properties.Resources.resources
+Z:\Documents\Visual Studio 2010\Projects\NERO\NERO\obj\x86\Debug\NERO.csproj.GenerateResource.Cache
+Z:\Documents\Visual Studio 2010\Projects\NERO\NERO\obj\x86\Debug\NERO.exe
+Z:\Documents\Visual Studio 2010\Projects\NERO\NERO\obj\x86\Debug\NERO.pdb
+Z:\Documents\Visual Studio 2010\Projects\NERO\NERO\obj\x86\Debug\NERO.Form_IdPac.resources
+Z:\Documents\Visual Studio 2010\Projects\NERO\NERO\obj\x86\Debug\NERO.Form_AdAnalise.resources
+Z:\Documents\Visual Studio 2010\Projects\NERO\NERO\obj\x86\Debug\NERO.csprojResolveAssemblyReference.cache
+Z:\Documents\Visual Studio 2010\Projects\NERO\NERO\obj\x86\Debug\NERO.Form4.resources
+C:\Documents and Settings\Marcílio\Meus documentos\Laudos_Nero\Programa\NERO\NERO\obj\x86\Debug\NERO.csproj.ResolveComReference.cache
+C:\Documents and Settings\Marcílio\Meus documentos\Laudos_Nero\Programa\NERO\NERO\obj\x86\Debug\NERO.exe
+C:\Documents and Settings\Marcílio\Meus documentos\Laudos_Nero\Programa\NERO\NERO\obj\x86\Debug\NERO.pdb
+C:\Documents and Settings\Marcílio\Meus documentos\Laudos_Nero\Programa\NERO\NERO\bin\Debug\NERO.exe
+C:\Documents and Settings\Marcílio\Meus documentos\Laudos_Nero\Programa\NERO\NERO\bin\Debug\NERO.pdb
+C:\Documents and Settings\Marcílio\Meus documentos\Laudos_Nero\Programa\NERO\NERO\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Documents and Settings\Marcílio\Meus documentos\Laudos_Nero\Programa\NERO\NERO\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Marcílio\Meus documentos\Laudos_Nero\Programa\NERO\NERO\obj\x86\Debug\NERO.Form_Principal.resources
+C:\Documents and Settings\Marcílio\Meus documentos\Laudos_Nero\Programa\NERO\NERO\obj\x86\Debug\NERO.Form_IdPac.resources
+C:\Documents and Settings\Marcílio\Meus documentos\Laudos_Nero\Programa\NERO\NERO\obj\x86\Debug\NERO.Form_AdAnalise.resources
+C:\Documents and Settings\Marcílio\Meus documentos\Laudos_Nero\Programa\NERO\NERO\obj\x86\Debug\NERO.Form4.resources
+C:\Documents and Settings\Marcílio\Meus documentos\Laudos_Nero\Programa\NERO\NERO\obj\x86\Debug\NERO.Properties.Resources.resources
+C:\Documents and Settings\Marcílio\Meus documentos\Laudos_Nero\Programa\NERO\NERO\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Marcílio\Meus documentos\Laudos_Nero\Programa\NERO\NERO\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.5\NERO\bin\Debug\NERO.exe
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.5\NERO\bin\Debug\NERO.pdb
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.5\NERO\bin\Debug\Microsoft.Office.Interop.Word.dll
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.5\NERO\obj\x86\Debug\NERO.csprojResolveAssemblyReference.cache
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.5\NERO\obj\x86\Debug\NERO.csproj.ResolveComReference.cache
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.5\NERO\obj\x86\Debug\NERO.Form_Principal.resources
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.5\NERO\obj\x86\Debug\NERO.Form_IdPac.resources
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.5\NERO\obj\x86\Debug\NERO.Form_AdAnalise.resources
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.5\NERO\obj\x86\Debug\NERO.Form4.resources
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.5\NERO\obj\x86\Debug\NERO.Properties.Resources.resources
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.5\NERO\obj\x86\Debug\NERO.csproj.GenerateResource.Cache
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.5\NERO\obj\x86\Debug\NERO.exe
+Z:\Documents\Visual Studio 2010\Projects\NERO_v1.5\NERO\obj\x86\Debug\NERO.pdb
