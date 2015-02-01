@@ -34,6 +34,11 @@ namespace NERO
         //Flag para saber se a lista de analise teve alguma mudança (foi adicionado um item)
         public bool hasChanged;
         string path = System.Environment.GetEnvironmentVariable("homepath");
+
+        private const string InstallPath = "C:\Documents and Settings\Marcílio\Meus documentos\Laudos_Nero";
+        private const string SettingsPath = "\Programa\Laudo\Settings\";
+        private const string LaudoPath = "\Programa\Laudo\";
+
         #endregion
 
         #region Public Methods
@@ -70,9 +75,10 @@ namespace NERO
 
         private void Form_Principal_Load(object sender, EventArgs e)
         {
-            string strPathFile = @"C:\Documents and Settings\Marcílio\Meus documentos\Laudos_Nero\Programa\Laudo\Settings\ListaLaudo.txt";
+            //string strPathFile = @"InstallPath\Programa\Laudo\Settings\ListaLaudo.txt";
             //NOVO 03/12
-            //string strPathFile = path + @"\Laudo\ListaLaudo.txt";
+            string strPathFile = path + @"\Laudo\ListaLaudo.txt";
+            strPathFile = Properties.Resources.ListaLaudo.;
             List<string> items = new List<string>();
 
             using (FileStream fs = File.Open(strPathFile, FileMode.Open))
@@ -208,7 +214,7 @@ namespace NERO
         {
             if (hasChanged)
             {
-                string strPathFile = @"C:\Documents and Settings\Marcílio\Meus documentos\Laudos_Nero\Programa\Laudo\Settings\ListaLaudo.txt";
+                string strPathFile = @ + InstallPath + SettingsPath + "ListaLaudo.txt";
                 //NOVO 03/12
                 //string strPathFile = path + @"\Laudo\ListaLaudo.txt";
                 using (FileStream fs = File.Create(strPathFile))
@@ -256,11 +262,11 @@ namespace NERO
             object isVisible = true;
             object missing = System.Reflection.Missing.Value;
             object fileToSave;
-            object template = @"C:\Documents and Settings\Marcílio\Meus documentos\Laudos_Nero\Programa\Laudo\Settings\LaudoNERO.dotx";
+            object template = InstallPath + SettingsPath + @"LaudoNERO.dotx";
             if (reportsName != "")
-                fileToSave = @"C:\Documents and Settings\Marcílio\Meus documentos\Laudos_Nero\Programa\Laudo\" + reportsName + ".doc";
+                fileToSave = InstallPath + LaudoPath + @"" + reportsName + ".doc";
             else
-                fileToSave = @"C:\Documents and Settings\Marcílio\Meus documentos\Laudos_Nero\Programa\Laudo\LaudoTemp.doc";
+                fileToSave = InstallPath + LaudoPath + @"LaudoTemp.doc";
 
             Microsoft.Office.Interop.Word.ApplicationClass oWordApp = new Microsoft.Office.Interop.Word.ApplicationClass();
 
@@ -381,6 +387,13 @@ namespace NERO
             //   else
             //       this.label1.Text = "UnChecked";
             //}
+        }
+
+        private void ConfigureFolderPath() 
+        {
+            //configurar o caminho de pasta de instalação?
+            //como fazer isso na hora de instalar e pegar o caminho correto?
+
         }
     }
 }
